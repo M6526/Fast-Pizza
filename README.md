@@ -18,6 +18,12 @@ Fast React Pizza Co is a feature-rich pizza ordering application with multiple p
 - **React Query and UseReducer:** Advanced state management techniques for a smoother user experience.
 - **React Router:** Seamless navigation between different pages.
 - **UseFetcher Hook:** Fetching data without navigating back to the main page.
+- ![Screenshot (780)](https://github.com/M6526/Fast-Pizza/assets/85380599/05911388-d8d5-4ed9-b336-8e742342e2de)
+![Screenshot (781)](https://github.com/M6526/Fast-Pizza/assets/85380599/0771f514-e68b-446b-a31c-cbdbd32658f6)
+![Screenshot (782)](https://github.com/M6526/Fast-Pizza/assets/85380599/79b70cb9-d7ba-444d-bbee-87bd4bc50b5a)
+![Screenshot (783)](https://github.com/M6526/Fast-Pizza/assets/85380599/17489832-754c-4757-b7dd-97017851278d)
+![Screenshot (784)](https://github.com/M6526/Fast-Pizza/assets/85380599/729b699e-9aa4-478f-8760-bb60544cf04d)
+![Screenshot (785)](https://github.com/M6526/Fast-Pizza/assets/85380599/16de080e-98c9-4744-a8d9-815cc362e175)
 ## 🚀 Getting Started
 To run the project locally, follow these steps:
 ```bash
@@ -35,12 +41,7 @@ If you'd like to contribute to Fast React Pizza Co, please follow our contributi
 📄 License
 This project is licensed under the MIT License.
 Happy ordering! 🍕✨
-![Screenshot (780)](https://github.com/M6526/Fast-Pizza/assets/85380599/05911388-d8d5-4ed9-b336-8e742342e2de)
-![Screenshot (781)](https://github.com/M6526/Fast-Pizza/assets/85380599/0771f514-e68b-446b-a31c-cbdbd32658f6)
-![Screenshot (782)](https://github.com/M6526/Fast-Pizza/assets/85380599/79b70cb9-d7ba-444d-bbee-87bd4bc50b5a)
-![Screenshot (783)](https://github.com/M6526/Fast-Pizza/assets/85380599/17489832-754c-4757-b7dd-97017851278d)
-![Screenshot (784)](https://github.com/M6526/Fast-Pizza/assets/85380599/729b699e-9aa4-478f-8760-bb60544cf04d)
-![Screenshot (785)](https://github.com/M6526/Fast-Pizza/assets/85380599/16de080e-98c9-4744-a8d9-815cc362e175)
+
 
 
 
